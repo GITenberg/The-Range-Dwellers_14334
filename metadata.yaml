@@ -1,0 +1,50 @@
+_repo: The-Range-Dwellers_14334
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Russell, Charles M. (Charles Marion)
+    aliases:
+    - Russell, Charley
+    - Russell, Charlie
+    - Russell, Kid
+    - Russell, Charles Marion
+    - Russell, C. M. (Charles Marion)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '3000'
+    url: http://www.gutenberg.org/2009/agents/3000
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Marion_Russell
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, Bertha Muzzy
+    - Sinclair, B. M. (Bertha Muzzy)
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: '"Here are everyday, genuine cowboys, just as they really exist. Spirited
+  action, a range feud between two families, and a Romeo and Juliet courtship make
+  this a bright, jolly, entertaining story, without a dull page."--Publisher''s ad.'
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowboys -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Ranchers -- Fiction'
+- !lcsh 'Automobiles -- Fiction'
+- !lcsh 'Western stories'
+title: The Range Dwellers
+url: http://www.gutenberg.org/ebooks/14334
